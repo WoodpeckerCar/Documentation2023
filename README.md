@@ -2,7 +2,7 @@
 
 Operation with Open TX Taranis X9D remote control 
 
-Open TX Companion downloade here https://www.open-tx.org/
+Open TX Companion download here https://www.open-tx.org/
 
 
 ![Screenshot](/images/WoodpeckerTaranisOperations.jpg)
